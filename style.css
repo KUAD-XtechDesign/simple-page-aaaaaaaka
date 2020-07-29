@@ -32,6 +32,8 @@ img.frame{
   padding-bottom: 10px;
   font-size: 1.2em;
   border-bottom: 1px solid #ddd;
+  color: aqua
+  ;
 }
 
 .btns{
